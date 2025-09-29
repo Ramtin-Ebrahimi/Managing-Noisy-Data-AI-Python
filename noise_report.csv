@@ -1,0 +1,65 @@
+row_index,column,original_value,status,new_value
+65,daily_patients,Group,Replaced with Mean,486.263768115942
+536,treated_patients,d,Replaced with Mean,51.98835516739447
+692,treated_patients,r,Replaced with Mean,51.98835516739447
+53,discharged_patients,Group,Replaced with Mean,50.60549132947977
+258,discharged_patients,Reinger,Replaced with Mean,50.60549132947977
+259,discharged_patients,Lind,Replaced with Mean,50.60549132947977
+588,deaths,Crona,Replaced with Mean,48.4349710982659
+589,deaths,Padberg,Replaced with Mean,48.4349710982659
+590,deaths,Parker,Replaced with Mean,48.4349710982659
+656,deaths,Herzog,Replaced with Mean,48.4349710982659
+64,ALL,"{'hospital_name': 'Bernier Inc', 'daily_patients': '706', 'treated_patients': '3', 'discharged_patients': '96', 'deaths': '48'}",Dropped (Duplicate),
+244,ALL,"{'hospital_name': 'Bernier Inc', 'daily_patients': '706', 'treated_patients': '3', 'discharged_patients': '96', 'deaths': '48'}",Dropped (Duplicate),
+397,ALL,"{'hospital_name': 'Cartwright, Ritchie and Batz', 'daily_patients': '457', 'treated_patients': '55', 'discharged_patients': '81', 'deaths': '5'}",Dropped (Duplicate),
+292,ALL,"{'hospital_name': 'Cartwright, Ritchie and Batz', 'daily_patients': '457', 'treated_patients': '55', 'discharged_patients': '81', 'deaths': '5'}",Dropped (Duplicate),
+396,ALL,"{'hospital_name': 'Crona, Bergstrom and Koch', 'daily_patients': '274', 'treated_patients': '73', 'discharged_patients': '97', 'deaths': '41'}",Dropped (Duplicate),
+291,ALL,"{'hospital_name': 'Crona, Bergstrom and Koch', 'daily_patients': '274', 'treated_patients': '73', 'discharged_patients': '97', 'deaths': '41'}",Dropped (Duplicate),
+63,ALL,"{'hospital_name': 'Haag-Stehr', 'daily_patients': '556', 'treated_patients': '27', 'discharged_patients': '36', 'deaths': '7'}",Dropped (Duplicate),
+243,ALL,"{'hospital_name': 'Haag-Stehr', 'daily_patients': '556', 'treated_patients': '27', 'discharged_patients': '36', 'deaths': '7'}",Dropped (Duplicate),
+62,ALL,"{'hospital_name': 'Jacobs LLC', 'daily_patients': '263', 'treated_patients': '43', 'discharged_patients': '56', 'deaths': '68'}",Dropped (Duplicate),
+242,ALL,"{'hospital_name': 'Jacobs LLC', 'daily_patients': '263', 'treated_patients': '43', 'discharged_patients': '56', 'deaths': '68'}",Dropped (Duplicate),
+8,ALL,"{'hospital_name': ""Jerde, Littel and O'Keefe"", 'daily_patients': '45', 'treated_patients': '37', 'discharged_patients': '56', 'deaths': '31'}",Dropped (Duplicate),
+38,ALL,"{'hospital_name': ""Jerde, Littel and O'Keefe"", 'daily_patients': '45', 'treated_patients': '37', 'discharged_patients': '56', 'deaths': '31'}",Dropped (Duplicate),
+80,ALL,"{'hospital_name': ""Jerde, Littel and O'Keefe"", 'daily_patients': '45', 'treated_patients': '37', 'discharged_patients': '56', 'deaths': '31'}",Dropped (Duplicate),
+61,ALL,"{'hospital_name': 'Konopelski Inc', 'daily_patients': '468', 'treated_patients': '74', 'discharged_patients': '100', 'deaths': '10'}",Dropped (Duplicate),
+241,ALL,"{'hospital_name': 'Konopelski Inc', 'daily_patients': '468', 'treated_patients': '74', 'discharged_patients': '100', 'deaths': '10'}",Dropped (Duplicate),
+82,ALL,"{'hospital_name': 'Mayert, Mertz and Ullrich', 'daily_patients': '134', 'treated_patients': '73', 'discharged_patients': '22', 'deaths': '68'}",Dropped (Duplicate),
+40,ALL,"{'hospital_name': 'Mayert, Mertz and Ullrich', 'daily_patients': '134', 'treated_patients': '73', 'discharged_patients': '22', 'deaths': '68'}",Dropped (Duplicate),
+10,ALL,"{'hospital_name': 'Mayert, Mertz and Ullrich', 'daily_patients': '134', 'treated_patients': '73', 'discharged_patients': '22', 'deaths': '68'}",Dropped (Duplicate),
+81,ALL,"{'hospital_name': 'Padberg-Hegmann', 'daily_patients': '713', 'treated_patients': '7', 'discharged_patients': '91', 'deaths': '51'}",Dropped (Duplicate),
+39,ALL,"{'hospital_name': 'Padberg-Hegmann', 'daily_patients': '713', 'treated_patients': '7', 'discharged_patients': '91', 'deaths': '51'}",Dropped (Duplicate),
+9,ALL,"{'hospital_name': 'Padberg-Hegmann', 'daily_patients': '713', 'treated_patients': '7', 'discharged_patients': '91', 'deaths': '51'}",Dropped (Duplicate),
+294,ALL,"{'hospital_name': 'Vandervort Inc', 'daily_patients': '324', 'treated_patients': '16', 'discharged_patients': '91', 'deaths': '46'}",Dropped (Duplicate),
+399,ALL,"{'hospital_name': 'Vandervort Inc', 'daily_patients': '324', 'treated_patients': '16', 'discharged_patients': '91', 'deaths': '46'}",Dropped (Duplicate),
+293,ALL,"{'hospital_name': 'Walter, Beatty and Tromp', 'daily_patients': '974', 'treated_patients': '3', 'discharged_patients': '55', 'deaths': '46'}",Dropped (Duplicate),
+398,ALL,"{'hospital_name': 'Walter, Beatty and Tromp', 'daily_patients': '974', 'treated_patients': '3', 'discharged_patients': '55', 'deaths': '46'}",Dropped (Duplicate),
+270,daily_patients,,Filled (Null),962.0
+318,deaths,,Filled (Null),48.5929203539823
+330,discharged_patients,,Filled (Null),50.249262536873154
+332,treated_patients,,Filled (Null),962.0
+334,daily_patients,,Filled (Null),962.0
+340,treated_patients,,Filled (Null),962.0
+376,treated_patients,,Filled (Null),962.0
+377,treated_patients,,Filled (Null),962.0
+378,treated_patients,,Filled (Null),962.0
+379,treated_patients,,Filled (Null),962.0
+380,treated_patients,,Filled (Null),962.0
+381,treated_patients,,Filled (Null),962.0
+404,discharged_patients,,Filled (Null),50.249262536873154
+405,discharged_patients,,Filled (Null),50.249262536873154
+406,discharged_patients,,Filled (Null),50.249262536873154
+407,discharged_patients,,Filled (Null),50.249262536873154
+418,daily_patients,,Filled (Null),962.0
+419,daily_patients,,Filled (Null),962.0
+420,daily_patients,,Filled (Null),962.0
+421,daily_patients,,Filled (Null),962.0
+426,deaths,,Filled (Null),48.5929203539823
+427,deaths,,Filled (Null),48.5929203539823
+428,deaths,,Filled (Null),48.5929203539823
+470,daily_patients,,Filled (Null),962.0
+470,treated_patients,,Filled (Null),962.0
+471,daily_patients,,Filled (Null),962.0
+471,treated_patients,,Filled (Null),962.0
+472,daily_patients,,Filled (Null),962.0
+472,treated_patients,,Filled (Null),962.0
